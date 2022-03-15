@@ -64,5 +64,5 @@
 [website]: https://anhttok.github.io
 [twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/
-[upwork]: https://www.upwork.com/o/profiles/users/~017ea95dbbac66b1b9/
+[upwork]: https://www.upwork.com/freelancers/~0148625825c92e8e11
 [gmail]: mailto:anhttok@gmail.com
