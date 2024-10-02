@@ -16,11 +16,10 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/anhttok/anhttok/master/undraw_certificate_re_yadi.svg" width="500" height="320" />
   
 ### **🌈 Talking about Personal Stuffs:**
-
 - 👨🏽‍💻 Im a senior web developer with more than 6 years of software development experience.
 - ⚡ You can also check out my portfolio at [github.com/anhttok][website]
 - 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I am happy to help. My email is anhttok@gmail.com
 
 ### **🤙 How to reach me:**
 
